@@ -6,11 +6,10 @@
 
 ## 技术与实验记录
 
-- [64 个问题案例](notes/07-casebook.md)
+- [8 个视觉与检测案例](../docs/技术复盘.md)
 - [数据采集与标注细节](notes/03-data-and-capture.md)
 - [模型迭代与采样配方](notes/04-model-iterations.md)
 - [评估范围与结果解释](notes/05-evaluation.md)
-- [部署排查记录](notes/06-edge-deployment.md)
 - [来源台账](notes/09-evidence-ledger.md)
 - [版本边界](notes/14-version-boundaries.md)与[开发时间线](notes/15-timeline.md)
 
