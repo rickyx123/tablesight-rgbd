@@ -1,0 +1,80 @@
+{
+  "version": "ocr_upright_label_region_20261016",
+  "bounded_square_enabled": true,
+  "bounded_round_enabled": true,
+  "round_context_margin": 0.18,
+  "total_budget_seconds_round": 18.0,
+  "frame_budget_seconds_round": 6.0,
+  "total_budget_seconds_square": 16.0,
+  "frame_budget_seconds_square": 7.5,
+  "maximum_word_regions_square": 6,
+  "enabled": true,
+  "minimum_text_confidence": 0.45,
+  "minimum_distinct_frames": 1,
+  "maximum_frames_square": 3,
+  "maximum_frames_round": 3,
+  "sample_interval_square": 0.5,
+  "sample_interval_round": 5.0,
+  "finish_timeout_seconds": 15.0,
+  "request_timeout_seconds": 10.0,
+  "tiled_fallback_enabled": true,
+  "word_refinement_enabled": true,
+  "high_resolution_rgb_enabled": true,
+  "whole_paper_scan_enabled": true,
+  "generic_paper_text_enabled": false,
+  "generic_paper_minimum_confidence": 0.9,
+  "resize_scale": 3.0,
+  "maximum_crop_side": 960,
+  "det_limit_side_len": 640,
+  "intra_op_num_threads": 2,
+  "known_mask_confidence": 0.6,
+  "rotations": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "negative_keywords": [],
+  "subjects": [
+    {
+      "name": "语文",
+      "goal_id": "W001",
+      "keywords": [
+        "语文"
+      ]
+    },
+    {
+      "name": "数学",
+      "goal_id": "W002",
+      "keywords": [
+        "数学"
+      ]
+    },
+    {
+      "name": "洗洁精",
+      "goal_id": "W003",
+      "keywords": [
+        "洗洁精",
+        "洗洁",
+        "洁精",
+        "洗精"
+      ]
+    },
+    {
+      "name": "沐浴露",
+      "goal_id": "W004",
+      "keywords": [
+        "沐浴露",
+        "沐浴",
+        "浴露",
+        "沐露"
+      ]
+    }
+  ],
+  "ocr_priority_over_yolo": true,
+  "partial_labels_enabled": true,
+  "partial_label_min_confidence": 0.45,
+  "single_character_min_confidence": 0.45,
+  "literal_label_characters_enabled": true,
+  "include_table_object_labels": true
+}

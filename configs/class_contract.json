@@ -1,0 +1,96 @@
+{
+  "classes": [
+    {
+      "index": 0,
+      "name": "眼镜",
+      "goal_id": "CA001"
+    },
+    {
+      "index": 1,
+      "name": "胶带",
+      "goal_id": "CA002"
+    },
+    {
+      "index": 2,
+      "name": "遥控器",
+      "goal_id": "CA003"
+    },
+    {
+      "index": 3,
+      "name": "卷尺",
+      "goal_id": "CA004"
+    },
+    {
+      "index": 4,
+      "name": "调味料",
+      "goal_id": "CB001"
+    },
+    {
+      "index": 5,
+      "name": "桶装方便面",
+      "goal_id": "CB002"
+    },
+    {
+      "index": 6,
+      "name": "面包",
+      "goal_id": "CB003"
+    },
+    {
+      "index": 7,
+      "name": "薯片",
+      "goal_id": "CB004"
+    },
+    {
+      "index": 8,
+      "name": "罐装饮料",
+      "goal_id": "CC001"
+    },
+    {
+      "index": 9,
+      "name": "袋装饮料",
+      "goal_id": "CC002"
+    },
+    {
+      "index": 10,
+      "name": "350ml瓶装饮用水",
+      "goal_id": "CC003"
+    },
+    {
+      "index": 11,
+      "name": "550ml瓶装饮用水",
+      "goal_id": "CC004"
+    },
+    {
+      "index": 12,
+      "name": "石榴",
+      "goal_id": "CD001"
+    },
+    {
+      "index": 13,
+      "name": "柿子",
+      "goal_id": "CD002"
+    },
+    {
+      "index": 14,
+      "name": "青枣/冬枣",
+      "goal_id": "CD003"
+    },
+    {
+      "index": 15,
+      "name": "柚子",
+      "goal_id": "CD004"
+    },
+    {
+      "index": 16,
+      "name": "桌子",
+      "goal_id": null
+    }
+  ],
+  "ocr_goals": {
+    "W001": "语文",
+    "W002": "数学",
+    "W003": "洗洁精",
+    "W004": "沐浴露"
+  },
+  "scope": "本地最后可核对类表；置信度运行配置另行核验"
+}

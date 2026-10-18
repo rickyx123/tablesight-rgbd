@@ -1,0 +1,182 @@
+{
+  "production_camera_check_passed": true,
+  "reason": "OK",
+  "sample_seconds": 2.18331704000002,
+  "frames": [
+    {
+      "sequence": 10,
+      "polygon": [
+        [
+          248.73968505859375,
+          132.28744506835938
+        ],
+        [
+          399.542724609375,
+          131.037841796875
+        ],
+        [
+          416.17694091796875,
+          203.49139404296875
+        ],
+        [
+          222.37583923339844,
+          203.49139404296875
+        ]
+      ],
+      "rear_edge_verified": true,
+      "real_washing_bottle_kept": true,
+      "floor_background_kept": 0,
+      "source": "current_depth_verified_tracking"
+    },
+    {
+      "sequence": 12,
+      "polygon": [
+        [
+          249.10958862304688,
+          132.2843780517578
+        ],
+        [
+          399.6756591796875,
+          131.0367431640625
+        ],
+        [
+          416.2989501953125,
+          203.72055053710938
+        ],
+        [
+          222.76092529296875,
+          203.72055053710938
+        ]
+      ],
+      "rear_edge_verified": true,
+      "real_washing_bottle_kept": true,
+      "floor_background_kept": 0,
+      "source": "current_depth_verified_tracking"
+    },
+    {
+      "sequence": 13,
+      "polygon": [
+        [
+          249.2220001220703,
+          132.283447265625
+        ],
+        [
+          399.6291809082031,
+          131.03712463378906
+        ],
+        [
+          416.36785888671875,
+          203.99139404296875
+        ],
+        [
+          222.6881866455078,
+          203.99139404296875
+        ]
+      ],
+      "rear_edge_verified": true,
+      "real_washing_bottle_kept": true,
+      "floor_background_kept": 0,
+      "source": "current_depth_verified_tracking"
+    },
+    {
+      "sequence": 16,
+      "polygon": [
+        [
+          249.27938842773438,
+          132.32725524902344
+        ],
+        [
+          399.55584716796875,
+          130.91995239257812
+        ],
+        [
+          416.36785888671875,
+          204.0122528076172
+        ],
+        [
+          222.6881866455078,
+          204.0122528076172
+        ]
+      ],
+      "rear_edge_verified": true,
+      "real_washing_bottle_kept": true,
+      "floor_background_kept": 0,
+      "source": "current_depth_verified_tracking"
+    },
+    {
+      "sequence": 19,
+      "polygon": [
+        [
+          248.9996337890625,
+          132.3298797607422
+        ],
+        [
+          399.24249267578125,
+          130.92288208007812
+        ],
+        [
+          415.87164306640625,
+          203.94969177246094
+        ],
+        [
+          222.69796752929688,
+          203.94969177246094
+        ]
+      ],
+      "rear_edge_verified": true,
+      "real_washing_bottle_kept": true,
+      "floor_background_kept": 0,
+      "source": "current_depth_verified_tracking"
+    },
+    {
+      "sequence": 21,
+      "polygon": [
+        [
+          248.78866542635936,
+          132.15750682071646
+        ],
+        [
+          399.1892454210508,
+          131.24887759482465
+        ],
+        [
+          416.1719190852306,
+          203.91678246282078
+        ],
+        [
+          222.92057271763898,
+          203.91678246282078
+        ]
+      ],
+      "rear_edge_verified": true,
+      "real_washing_bottle_kept": true,
+      "floor_background_kept": 0,
+      "source": "same_frame_depth_rgb"
+    },
+    {
+      "sequence": 22,
+      "polygon": [
+        [
+          247.53044613619463,
+          132.12133848524334
+        ],
+        [
+          399.2614070736946,
+          131.07233007083738
+        ],
+        [
+          416.25496237042626,
+          204.04403371328723
+        ],
+        [
+          223.19737842496818,
+          204.04403371328723
+        ]
+      ],
+      "rear_edge_verified": true,
+      "real_washing_bottle_kept": true,
+      "floor_background_kept": 0,
+      "source": "same_frame_depth_rgb"
+    }
+  ]
+}

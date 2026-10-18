@@ -1,0 +1,38 @@
+[
+  {
+    "file": "artifacts/model-comparisons/v6_v7_per_class.csv",
+    "source_name": "per_class_comparison.csv",
+    "sha256": "1593adeba66702790a05848164795c89591e6895171c668e64a4bbb44a458cb2",
+    "copied_without_numeric_changes": true
+  },
+  {
+    "file": "artifacts/model-comparisons/v7_v8_same_split.csv",
+    "source_name": "server_v7_vs_v8.csv",
+    "sha256": "bb4a4e841b9b6b7942dbd5d4a43b125cb0e9f37e937abfa08f1cb7d2bab95081",
+    "copied_without_numeric_changes": true
+  },
+  {
+    "file": "artifacts/model-comparisons/v8_v9_same_split.csv",
+    "source_name": "server_v8_vs_v9.csv",
+    "sha256": "8c64f1d62a8f1b11327817a5a66984212f5e2ab0a8451ac0f1ed72af3be61995",
+    "copied_without_numeric_changes": true
+  },
+  {
+    "file": "artifacts/model-comparisons/v8_v9_whole_per_class.csv",
+    "source_name": "v8_v9_whole_832_per_class_comparison.csv",
+    "sha256": "60555d05649c9a4044e916a79ef992d297f40ae888288a04b78c74c1d9cfe66d",
+    "copied_without_numeric_changes": true
+  },
+  {
+    "file": "artifacts/model-comparisons/v8_v9_new_field_per_class.csv",
+    "source_name": "v8_v9_new_field_832_per_class_comparison.csv",
+    "sha256": "9ef5e0b451d9ceb06e6dd1f6eb68806447558381be3f9f4282b5ec11af47c1b2",
+    "copied_without_numeric_changes": true
+  },
+  {
+    "file": "artifacts/model-comparisons/v8_v9_old_hard_per_class.csv",
+    "source_name": "v8_v9_old_hard_832_per_class_comparison.csv",
+    "sha256": "57a4586d6863f2d9b7d06b362b27666ae8565380bbdb4c1e83a2068dcf978a12",
+    "copied_without_numeric_changes": true
+  }
+]

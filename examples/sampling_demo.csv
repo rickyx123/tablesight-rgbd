@@ -1,0 +1,4 @@
+sample_id,path,split,scene_group,source_sha,priority,weight
+demo_new,images/train/demo_new.jpg,train,synthetic_new,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,new_field,7
+demo_old,images/train/demo_old.jpg,train,synthetic_old,bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb,ordinary,1
+demo_val,images/val/demo_val.jpg,val,synthetic_val,cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc,validation,1

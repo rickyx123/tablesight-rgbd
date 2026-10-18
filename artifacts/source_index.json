@@ -1,0 +1,96 @@
+[
+  {
+    "id": "E01",
+    "source_name": "国赛项目交接说明.md",
+    "kind": "local_artifact",
+    "available_at_build": true,
+    "sha256": "ac12a50ac827438265ec79b20de5e3f18c3e64de9ad0fbd6bba6e4b8841c9c3b",
+    "summary": "项目总交接、数据规模与历史版本边界"
+  },
+  {
+    "id": "E02",
+    "source_name": "新对话必读_国赛模型训练交接.md",
+    "kind": "local_artifact",
+    "available_at_build": true,
+    "sha256": "fdd770030dd87108bb231b3dcdca1dc813301346953deadc88ee7f7d68dfe8e0",
+    "summary": "数据审计、核心集、场景组、采样、训练与恢复"
+  },
+  {
+    "id": "E03",
+    "source_name": "V6m_V7m_同条件对比报告.md",
+    "kind": "local_artifact",
+    "available_at_build": true,
+    "sha256": "130e20d5fb276c979b052115f0b837a89fb9a29103c9a4e374c59121cb7dcaa4",
+    "summary": "V6/V7 同条件比较"
+  },
+  {
+    "id": "E04",
+    "source_name": "V8_正式模型验收报告.md",
+    "kind": "local_artifact",
+    "available_at_build": true,
+    "sha256": "cab5b37d9e5c1538133f143ea715c53bc4d2e72e8afa26652a7c9767257730f0",
+    "summary": "V7/V8 现场改善与旧专项回退"
+  },
+  {
+    "id": "E05",
+    "source_name": "V9_正式模型验收报告.md",
+    "kind": "local_artifact",
+    "available_at_build": true,
+    "sha256": "2d5a38999d1085ead741905f62c46f2a920f1bd9f0376472ce97de88a64ad848",
+    "summary": "V8/V9 同集、逐类与错误事件分析"
+  },
+  {
+    "id": "E06",
+    "source_name": "国赛板端部署与算法交接_20261003.md",
+    "kind": "local_artifact",
+    "available_at_build": true,
+    "sha256": "fb4d672ce4defe7bf1a380ba98ce2695f5ec50550f68f58020eaddc91554fa45",
+    "summary": "深度、时序、OCR 与并行部署的阶段记录"
+  },
+  {
+    "id": "E07",
+    "source_name": "round_ocr_ownership_deployment.json",
+    "kind": "local_artifact",
+    "available_at_build": true,
+    "sha256": "c8409ad133fe75a4248c052464d273feb3282382cce842d9f178a267c134ad13",
+    "summary": "圆桌 OCR 来源归属修复的归档线索"
+  },
+  {
+    "id": "E08",
+    "source_name": "rear_production_camera_check.json",
+    "kind": "local_artifact",
+    "available_at_build": true,
+    "sha256": "e34aad8edad3dab36c5992648e3e51c419892d05330f813b08985ba4de64a52f",
+    "summary": "方桌后沿七帧有限实测"
+  },
+  {
+    "id": "E09",
+    "source_name": "ocr_rules_before.json",
+    "kind": "local_artifact",
+    "available_at_build": true,
+    "sha256": "4963f584cbde97c4a0e5e73496594619681e0423583b98558e503c518d160da2",
+    "summary": "正式 OCR 未改的配置线索；全图实验最终取消"
+  },
+  {
+    "id": "E10",
+    "source_name": "JUDGE_START_README.md",
+    "kind": "local_artifact",
+    "available_at_build": true,
+    "sha256": "f63d4525a4d66c91c990dfff86ea87b3b8ca80304444fa88954dfa9ef84fd712",
+    "summary": "正式编排与通信入口说明，结合后期对话解释"
+  },
+  {
+    "id": "E11",
+    "source_name": "README.md",
+    "kind": "local_artifact",
+    "available_at_build": true,
+    "sha256": "40bd25213c42620fd19d2bc57f97537cb383515f4af39b7abeae762a8ab57db0",
+    "summary": "Windows 模型测试及可视化说明"
+  },
+  {
+    "id": "E12",
+    "source_name": "相关历史开发对话与本对话",
+    "kind": "development_record",
+    "summary": "检索模型训练最新、模型训练、模型测试、处理香橙派部署推理流程、aaa部署等相关记录；仅整理技术事实，不上传聊天原文"
+  }
+]

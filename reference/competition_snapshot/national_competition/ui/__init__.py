@@ -1,0 +1,1 @@
+"""National competition visualization UI."""

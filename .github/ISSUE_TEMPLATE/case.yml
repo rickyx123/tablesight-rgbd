@@ -1,0 +1,30 @@
+name: 技术案例与补充证据
+description: 补充问题、复盘或可复查的实验，不直接改写现有结论。
+title: "[案例] "
+body:
+  - type: input
+    id: case_id
+    attributes:
+      label: 对应案例编号
+      description: 新案例可填写 new，已有案例例如 G05。
+  - type: textarea
+    id: observation
+    attributes:
+      label: 现象与复现条件
+    validations:
+      required: true
+  - type: dropdown
+    id: status
+    attributes:
+      label: 证据状态
+      options:
+        - 待补实验
+        - 开发记录
+        - 有限实测
+        - 报告核验
+        - 实验未部署
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 证据和限制
+      description: 请提供脱敏结果，并说明输入、指标口径和未覆盖情况。

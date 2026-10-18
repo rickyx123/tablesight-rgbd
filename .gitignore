@@ -1,0 +1,16 @@
+.draft-build
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+weighted_train.txt
+*.pt
+*.onnx
+*.om
+*.bin
+*.zip
+*.pem
+*.key
+.env

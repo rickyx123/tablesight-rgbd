@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290">
+ <rect width="1200" height="290" rx="18" fill="#071a29"/>
+ <path d="M760 85 L1030 70 L1110 210 L700 220Z" fill="#0f3947" stroke="#46e2b0" stroke-width="3"/>
+ <ellipse cx="885" cy="175" rx="25" ry="12" fill="#30bfa1"/>
+ <path d="M875 115v55c0 12 25 12 25 0v-55z" fill="#438eb7" stroke="#81d6ee" stroke-width="2"/>
+ <path d="M738 250h375" stroke="#214859"/>
+ <text x="55" y="110" fill="#ffffff" font-family="Arial,sans-serif" font-size="62" font-weight="700">TableSight</text>
+ <text x="58" y="162" fill="#76e6ca" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="28">RGB-D 桌面感知 · 数据闭环 · 时序融合</text>
+ <text x="60" y="214" fill="#a6bdcd" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="19">真实竞赛问题驱动的视觉系统与工程复盘</text>
+ <text x="60" y="254" fill="#6f8b9d" font-family="Arial,sans-serif" font-size="15">PRIVATE DRAFT / 2026</text>
+</svg>

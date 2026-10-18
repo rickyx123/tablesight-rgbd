@@ -1,0 +1,54 @@
+{
+  "scope": "历史配置摘要，不是完整可运行训练包；数据与权重另行准备",
+  "architecture": "YOLOv8m",
+  "classes": 17,
+  "v6": {
+    "train_unique": 2406,
+    "val_unique": 602,
+    "weighted_entries": 2642,
+    "sampling": {
+      "hard": 3,
+      "ordinary": 1
+    }
+  },
+  "v7": {
+    "train_unique": 2871,
+    "val_unique": 718,
+    "weighted_entries": 3667,
+    "sampling": {
+      "hard": 3,
+      "ordinary": 1
+    }
+  },
+  "v8": {
+    "train_unique": 3465,
+    "val_unique": 867,
+    "weighted_entries": 6637,
+    "sampling": {
+      "field": 5,
+      "old_hard": 3,
+      "ordinary": 1
+    },
+    "initialization": "formal_v7_best",
+    "imgsz": 832,
+    "lr0": 0.0001,
+    "epochs_max": 150
+  },
+  "v9": {
+    "train_unique": 3691,
+    "val_unique": 924,
+    "weighted_entries": 8219,
+    "sampling": {
+      "new_field": 7,
+      "previous_field": 5,
+      "old_hard": 3,
+      "ordinary": 1
+    },
+    "initialization": "formal_v8_best",
+    "imgsz": 832,
+    "lr0": 0.0001,
+    "epochs_max": 150
+  },
+  "validation_repeated": false,
+  "important": "图像级重采样会同时改变该图全部类别的采样机会"
+}

@@ -1,0 +1,4 @@
+* text=auto eol=lf
+artifacts/model-comparisons/*.csv -text
+artifacts/local-regression/*.json -text
+reference/competition_snapshot/** -text

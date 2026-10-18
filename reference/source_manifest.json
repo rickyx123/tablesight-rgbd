@@ -1,0 +1,149 @@
+{
+  "snapshot_scope": "最后可核对本地算法快照；不是完整比赛镜像",
+  "files": [
+    {
+      "path": "__init__.py",
+      "sha256": "8ba32019ca5b44faba5efa3585a829993de3660ddc577ad75c7247cd6dd800f0"
+    },
+    {
+      "path": "config.py",
+      "sha256": "4a66b6e37ba283d5057a5a8eeebbf088ba55bd771b6c6b8390dfd59cf5019b44"
+    },
+    {
+      "path": "fusion.py",
+      "sha256": "0cf8f8d6d7dd517c36530392c985160ef0fa3896b322ed1c6c86e8882b31735f"
+    },
+    {
+      "path": "contract.py",
+      "sha256": "16cf1d246d408d64149959c7d3a635bbf0cb29082602340cddc8da3995a2c5ae"
+    },
+    {
+      "path": "model_tools.py",
+      "sha256": "1e9dd281847ec878ee981f638ee4c16e06fa10fa0e8a1d4dbad8c265e44a98dd"
+    },
+    {
+      "path": "align.py",
+      "sha256": "575e5fe0c7ac3343c12f76f8dbd3f8490c9ee65905969a4e72a67e0cb263566a"
+    },
+    {
+      "path": "dataset_audit.py",
+      "sha256": "e2d39608b4efc8d57bebc2bbd3fa2cd112631e8a35d1547f7da4c36f0c5e902f"
+    },
+    {
+      "path": "runtime/capture_policy.py",
+      "sha256": "73ad782c0b7fa9ad8b0ed947590a75097db99d11ae1a3e2f7ece67cf156ab9a0"
+    },
+    {
+      "path": "runtime/depth_overlap.py",
+      "sha256": "9088ce513d11780257b568541ed751d4722de6fcc0bd23ba70d9025f65497e20"
+    },
+    {
+      "path": "runtime/depth_ownership.py",
+      "sha256": "f5a41aa2befa5de0bfb0e710be969f47b05d4d39034406ba3fc9e6e24a7e123a"
+    },
+    {
+      "path": "runtime/depth_pipeline.py",
+      "sha256": "8a004b1970bd6e68d09426ed4d215ee323d8fcd8388497f8944568589c3343bb"
+    },
+    {
+      "path": "runtime/depth_recording.py",
+      "sha256": "fc76636694601e9597315b314b17c655c38ff31422c85be2e80642f5ae41a916"
+    },
+    {
+      "path": "runtime/depth_validation.py",
+      "sha256": "b800f75f01b57d597147e545effa38b1411d42798b2268c2a1754c811c40c682"
+    },
+    {
+      "path": "runtime/judge_protocol.py",
+      "sha256": "9749d41bbd4cd02dc293a45c7027d5bd088096614ed3e222676eeace40cf7f66"
+    },
+    {
+      "path": "runtime/native_yolo_source.py",
+      "sha256": "9d74cbce5c868d3bad00cdcebc7828c43c898a4f051744417d5e828a36f83160"
+    },
+    {
+      "path": "runtime/ocr_budget.py",
+      "sha256": "99168925835ff681038cb0c72c809956049017f1e865e4ddf7f7834dfad791e0"
+    },
+    {
+      "path": "runtime/ocr_client.py",
+      "sha256": "1882c6cb804efc977331ab63870059fd7df64a6bad7e9884088d82e05bf292b4"
+    },
+    {
+      "path": "runtime/ocr_exclusivity.py",
+      "sha256": "59ea1071b6a65935d621a64ab69e591c0bee9a84cae9f1c84038321abc25477a"
+    },
+    {
+      "path": "runtime/ocr_logic.py",
+      "sha256": "392024e47a987a6c68ddbab4cb1586cd2e499edc4c34ea768fe7fd5dec20992c"
+    },
+    {
+      "path": "runtime/ocr_paper.py",
+      "sha256": "2dbe7868e0dd8339948d7ab2623f40f07472f900b4c0249413fb72299e574841"
+    },
+    {
+      "path": "runtime/ocr_source.py",
+      "sha256": "1fad049cfac442d6926027dcfdcf378b621ed8356886d4ef3b406aed91931e6a"
+    },
+    {
+      "path": "runtime/ocr_worker.py",
+      "sha256": "dede3666542e813d2c5dc1e7d90c2dd34d7e8dd5998cbd7b143b83f870bcd9fa"
+    },
+    {
+      "path": "runtime/result_writer.py",
+      "sha256": "e4f6f099c81155bd83990c0388886b49740099aa0f52e0555a4517c860da96e6"
+    },
+    {
+      "path": "runtime/round_surface.py",
+      "sha256": "f35123f7907e59e7e85b7fb796464528b143064dda9145dbd84f06aecc76b74a"
+    },
+    {
+      "path": "runtime/round_water.py",
+      "sha256": "12a63814e769de4dff368f18f29cf13c4f87c16fe9a17c88853398f4543357c5"
+    },
+    {
+      "path": "runtime/square_surface.py",
+      "sha256": "8c5eea72105fe5773ff509ed83c8b6d3e0706b8a7af6b6d2bda3feb68acb61d2"
+    },
+    {
+      "path": "runtime/timed_fusion.py",
+      "sha256": "e77dc20a5d143b7c8c010e64bcbf6267f9768c6cc1f8a6fa69edab6617504610"
+    },
+    {
+      "path": "runtime/water_dedup.py",
+      "sha256": "9ec982104004a17a1c668c15089aaaa9c7be064d8e132babacb9463447fc77a9"
+    },
+    {
+      "path": "runtime/yolo_worker.py",
+      "sha256": "5e1e6682f172c2962ba90a9bf6046a5658fe1f010f8c5d0fc0844f4f8da67acc"
+    },
+    {
+      "path": "runtime/__init__.py",
+      "sha256": "8edf0fb589476eef7982a7bc489cd7d2433506432ea8ae3d0a6aba5f4a11b277"
+    },
+    {
+      "path": "ui/competition_table.py",
+      "sha256": "a38bcafd275be945317ec360041b63abf6b424003cd501e036dfaafd51189190"
+    },
+    {
+      "path": "ui/competition_visualizer.py",
+      "sha256": "fd2dde8d5213ab7aa2e63f1707621e71e50bfad6fb4b3ae978811d6808c8f374"
+    },
+    {
+      "path": "ui/timed_test.py",
+      "sha256": "094785081f04351ba995e84942952585a3c5b4d04506eec998b4230f649869fc"
+    },
+    {
+      "path": "ui/__init__.py",
+      "sha256": "2a8bd3bb47770b5ae78f794c2678baa165cae6ca1676bf5ed6c276f5096b2b68"
+    },
+    {
+      "path": "ocr/ocr_rules.json",
+      "sha256": "4963f584cbde97c4a0e5e73496594619681e0423583b98558e503c518d160da2"
+    },
+    {
+      "path": "depth/depth_rules.json",
+      "sha256": "c547d054ba2c76cc65687ff13f7b35a7cace66bab80332d64412201ba171277d"
+    }
+  ]
+}
