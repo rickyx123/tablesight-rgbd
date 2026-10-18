@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290">
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="#6597ab"/></marker></defs>
+<rect width="1200" height="290" rx="16" fill="#0b1c2b"/>
+<g font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" text-anchor="middle">
+<text x="600" y="38" font-size="18" fill="#b6cbd8">从画面中的候选物品，到目标桌面上的实物数量</text>
+<g fill="#123345" stroke="#3e7184" stroke-width="1.5">
+<rect x="28" y="96" width="154" height="85" rx="10"/><rect x="220" y="96" width="154" height="85" rx="10"/>
+<rect x="412" y="96" width="154" height="85" rx="10"/><rect x="604" y="96" width="154" height="85" rx="10"/>
+<rect x="796" y="96" width="154" height="85" rx="10"/><rect x="988" y="96" width="184" height="85" rx="10" fill="#14473f" stroke="#57c6a7"/>
+</g>
+<g fill="#f0f6fa" font-size="21"><text x="105" y="130">RGB-D 采集</text><text x="297" y="130">YOLO 检测</text><text x="489" y="130">桌面归属</text><text x="681" y="130">深度验证</text><text x="873" y="130">时序融合</text><text x="1080" y="130">数量与结果输出</text></g>
+<g fill="#a5c0ce" font-size="14"><text x="105" y="159">图像与深度配对</text><text x="297" y="159">类别及候选位置</text><text x="489" y="159">方桌 / 旋转圆桌</text><text x="681" y="159">立体 / 平面 / 未知</text><text x="873" y="159">跨帧实例支持</text><text x="1080" y="159">保存 / 裁判盒通信</text></g>
+<g stroke="#6597ab" stroke-width="2" marker-end="url(#arrow)"><path d="M183 139H211"/><path d="M375 139H403"/><path d="M567 139H595"/><path d="M759 139H787"/><path d="M951 139H979"/></g>
+<rect x="278" y="216" width="530" height="42" rx="8" fill="#192d48" stroke="#657da7"/>
+<text x="543" y="243" font-size="16" fill="#c1d4f5">OCR 文字类别补充：语文 · 数学 · 洗洁精 · 沐浴露</text>
+<path d="M808 237H1080V187" fill="none" stroke="#6597ab" stroke-width="2" marker-end="url(#arrow)"/>
+</g></svg>

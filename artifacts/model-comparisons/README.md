@@ -11,4 +11,4 @@ CSV 从对应历史评估产物逐字节复制，没有手动调整数字；SHA 
 | [v8_v9_new_field_per_class.csv](v8_v9_new_field_per_class.csv) | 新现场逐类本机对比 | 样本少的类别需要谨慎解释 |
 | [v8_v9_old_hard_per_class.csv](v8_v9_old_hard_per_class.csv) | 旧专项逐类本机对比 | 保留实际回退 |
 
-P/R 是评估器最佳平均 F1 阈值处宏平均，不直接当固定部署门槛的 P/R。服务器总表与本机逐类表可能因 batch/精度设置产生细小差异。请阅读 [评估说明](../../docs/05-evaluation.md)。
+P/R 是评估器最佳平均 F1 阈值处宏平均，不直接当固定部署门槛的 P/R。服务器总表与本机逐类表可能因 batch/精度设置产生细小差异。请阅读 [评估说明](../../archive/notes/05-evaluation.md)。
