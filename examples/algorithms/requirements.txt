@@ -1,0 +1,5 @@
+# Exact versions used to execute these examples on Python 3.10.14 / Windows.
+# These are example dependencies, not a complete hardware runtime environment.
+numpy==2.2.6
+opencv-python==4.13.0.92
+Pillow==12.1.1

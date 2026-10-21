@@ -1,0 +1,22 @@
+{
+  "raised": {
+    "state": "PASS",
+    "reject": false,
+    "reason": "VISIBLE_3D_STRUCTURE"
+  },
+  "flat": {
+    "state": "FLAT",
+    "reject": true,
+    "reason": "DENSE_PLANAR_PRINT"
+  },
+  "missing": {
+    "state": "UNKNOWN",
+    "reject": false,
+    "reason": "INSUFFICIENT_OBJECT_DEPTH"
+  },
+  "no_depth_array": {
+    "state": "UNKNOWN",
+    "reject": false,
+    "reason": "DEPTH_MISSING"
+  }
+}

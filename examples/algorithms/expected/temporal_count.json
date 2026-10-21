@@ -1,0 +1,36 @@
+{
+  "capture_attempts": 20,
+  "missing_table_attempts": 8,
+  "objects_present_in_valid_moments": 6,
+  "correct_valid_only": {
+    "counts": {
+      "0": 2
+    },
+    "valid_moments": 12,
+    "id_min_moments": 5,
+    "multi_min_moments": 6
+  },
+  "wrong_missing_as_empty": {
+    "counts": {},
+    "valid_moments": 20,
+    "id_min_moments": 7,
+    "multi_min_moments": 9
+  },
+  "square": {
+    "input_frames": 7,
+    "frames_with_object": 5,
+    "counts": {
+      "3": 1
+    },
+    "accepted_tracks": 1
+  },
+  "one_burst": {
+    "input_sequences": [
+      1,
+      2
+    ],
+    "accepted_class_ids": [
+      0
+    ]
+  }
+}

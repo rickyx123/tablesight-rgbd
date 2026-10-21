@@ -2,6 +2,8 @@
 
 本目录保存工作区中可核对的团队项目 Python 代码与部分配置，内容 SHA 见 [source_manifest.json](source_manifest.json)。这是参考快照，未改原工作区运行版。
 
+第一次阅读建议先运行[核心算法输入输出示例](../examples/algorithms/README.md)。示例调用本目录的真实 `scope`、`evaluate`、`burst_vote`、`square_fuse` 和 `round_fuse`，说明输入字段和输出含义。
+
 | 模块 | 阅读入口 |
 |---|---|
 | 方桌透视边界与后沿 | [square_surface.py](competition_snapshot/national_competition/runtime/square_surface.py) |
