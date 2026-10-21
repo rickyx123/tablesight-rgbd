@@ -1,0 +1,28 @@
+{
+  "verified_date": "2026-10-21",
+  "source": "verified_board_backup",
+  "architecture": "YOLOv8m",
+  "internal_version": "V9",
+  "files": [
+    {
+      "file": "national_rc_v9m_new7_field5_hard3_ft_20261016.export.json",
+      "bytes": 3728,
+      "sha256": "d239d858fc2e4f1faf261c6dd6245c21522e891a8de82a6f89050493e71a5673"
+    },
+    {
+      "file": "national_rc_v9m_new7_field5_hard3_ft_20261016.onnx",
+      "bytes": 103627025,
+      "sha256": "549d26cd777cce52bf29075c48482b72224c80337493eaaf8250918a7debc746"
+    },
+    {
+      "file": "national_rc_v9m_new7_field5_hard3_ft_20261016.pt",
+      "bytes": 52060562,
+      "sha256": "200f95e604bd53c140f44147e0e299007b0ed15a5e86fdedae204b428d755b92"
+    },
+    {
+      "file": "national_rc_v9m_new7_field5_hard3_ft_20261016_cann8.om",
+      "bytes": 52789648,
+      "sha256": "f3a8e72e323daaa2484e58164d30d39e5855c2faa75a7b77cff8335f0362e7e4"
+    }
+  ]
+}
