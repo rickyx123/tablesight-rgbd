@@ -11,6 +11,11 @@ files=[p for p in ROOT.rglob('*') if p.is_file() and '.git' not in p.parts and '
 for p in files:
     if p.name in ('.draft-build','weighted_train.txt'):continue
     if p.suffix in ('.pt','.onnx','.om','.bin','.zip','.pem','.key'):errors.append(('unexpected_binary',str(p.relative_to(ROOT))))
+    if p.suffix.lower() in ('.jpg','.jpeg','.png'):
+        raw=p.read_bytes()
+        valid=(raw.startswith(b'\xff\xd8\xff') and raw.endswith(b'\xff\xd9')) if p.suffix.lower() in ('.jpg','.jpeg') else raw.startswith(b'\x89PNG\r\n\x1a\n')
+        if not valid:errors.append(('invalid_image',str(p.relative_to(ROOT))))
+        continue
     try:text=p.read_text(encoding='utf-8-sig')
     except UnicodeError:errors.append(('non_utf8',str(p.relative_to(ROOT))));continue
     if secret.search(text):errors.append(('credential_pattern',str(p.relative_to(ROOT))))

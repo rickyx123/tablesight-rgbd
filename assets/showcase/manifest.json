@@ -1,0 +1,124 @@
+[
+  {
+    "file": "1978_annotation_ui.jpg",
+    "sha256": "f5cdc86d5ca8d6a611f266224382bd4c1afb7ad56f10a98740a4fc2b12f197e8",
+    "source_image": "1978.jpg",
+    "source_annotation": "1978.json",
+    "annotation_sha256": "cf94e5ccc8d4573874bd5c90646352757c13061f068db863282084244989f9ec",
+    "type": "strict_annotation_UI_illustration",
+    "depth_inference_performed": false,
+    "counts": {
+      "调味料": 2,
+      "550ml瓶装饮用水": 2,
+      "350ml瓶装饮用水": 1,
+      "冬枣": 1,
+      "罐装饮料": 1,
+      "面包": 1,
+      "袋装饮料": 1,
+      "卷尺": 1,
+      "柚子": 1,
+      "桶装方便面": 1,
+      "石榴": 1,
+      "柿子": 1,
+      "眼镜": 1,
+      "薯片": 1
+    },
+    "table_outline": "original_annotation"
+  },
+  {
+    "file": "2295_annotation_ui.jpg",
+    "sha256": "ee9d159c3ea4f5bc6d38af154a743afe1dbf7046b1513c70bdaef6840cc9e9d6",
+    "source_image": "2295.jpg",
+    "source_annotation": "2295.json",
+    "annotation_sha256": "08447714da84f71fe97fe937f2be0c59c408b3b400578944ceb2c7500accf428",
+    "type": "strict_annotation_UI_illustration",
+    "depth_inference_performed": false,
+    "counts": {
+      "胶带": 5,
+      "遥控器": 4,
+      "罐装饮料": 1,
+      "350ml瓶装饮用水": 3,
+      "调味料": 1,
+      "卷尺": 3,
+      "眼镜": 1,
+      "石榴": 1
+    },
+    "table_outline": {
+      "source": "manual_RGB_edge_samples",
+      "samples": [
+        [
+          670,
+          418
+        ],
+        [
+          770,
+          360
+        ],
+        [
+          1050,
+          331
+        ],
+        [
+          1155,
+          370
+        ],
+        [
+          1247,
+          461
+        ],
+        [
+          1273,
+          563
+        ],
+        [
+          1237,
+          663
+        ],
+        [
+          1150,
+          730
+        ],
+        [
+          1000,
+          773
+        ],
+        [
+          850,
+          766
+        ],
+        [
+          744,
+          724
+        ]
+      ],
+      "center": [
+        947.8306884765625,
+        548.109130859375
+      ],
+      "axes": [
+        456.44415283203125,
+        656.8681640625
+      ],
+      "angle": 90.92826080322266
+    }
+  },
+  {
+    "file": "A54_annotation_ui.jpg",
+    "sha256": "914ccb5d83ea28eee9ad52d70192fd495c5aae13525ae5b063c2b3f54a1e8a2c",
+    "source_image": "A54.jpg",
+    "source_annotation": "A54.json",
+    "annotation_sha256": "f2d438a7dd1032947edbe809e8069fbf05ecea6a79031fdf349153bee942f8b2",
+    "type": "strict_annotation_UI_illustration",
+    "depth_inference_performed": false,
+    "counts": {
+      "遥控器": 2,
+      "罐装饮料": 1,
+      "550ml瓶装饮用水": 2,
+      "袋装饮料": 1,
+      "石榴": 1,
+      "卷尺": 4,
+      "面包": 2
+    },
+    "table_outline": "original_annotation"
+  }
+]
